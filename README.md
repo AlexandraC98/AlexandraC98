@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 👩‍⚕️ Fun fact: working as a medical resident in PM&R, aiming to change careers
 
-### 🦦 Tech Skills
+### 🦦 Tech Skills Acquired So Far
 [![My Skills](https://skillicons.dev/icons?i=py,github,replit,md,bash)](https://skillicons.dev)
 
 <!---
