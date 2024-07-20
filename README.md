@@ -1,10 +1,14 @@
 ## **👋 Hi, I’m @AlexandraC98**
 
-- 🌱 I’m currently learning Python
-- 👩‍⚕️ Fun fact: working as a medical resident in PM&R, aiming to change careers
+- 🌱 I'm in training to become a full-stack ninja
+- 👩‍⚕️ Fun fact: currently working as a medical resident in PM&R, aiming to change careers
 
 ### 🦦 Tech Skills Acquired So Far
-[![My Skills](https://skillicons.dev/icons?i=py,github,replit,md,bash)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,css,git,github,replit,md,bash,vscode" />
+  </a>
+</p>
 
 <!---
 AlexandraC98/AlexandraC98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
